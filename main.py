@@ -627,11 +627,6 @@ def PIAK_tool():
     if opc=="x" or opc=="exit" or opc=="esc":
         System.Clear()
         bye_bye(username, date_now)
-    if opc=="!":
-        ctypes.windll.kernel32.SetConsoleTitleW(f'{toolname} - Made By {owners} - Date : {date_now} - Logged As : {username} | Module : Send Suggestion')
-        open('data\send_suggest.py')
-        os.system("data\send_suggest.py")
-        PIAK_tool()
     if opc=="1":
         ctypes.windll.kernel32.SetConsoleTitleW(f'{toolname} - Made By {owners} - Date : {date_now} - Logged As : {username} | Module : Token Checker')
         print()
