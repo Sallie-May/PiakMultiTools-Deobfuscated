@@ -3,6 +3,8 @@
 ## Why I did that?
 Simple, Github is a place where you show the source code, if you are not don't use github.
 
+I still need to deobfuscate some pyarmor then everything to see for everyone !!
+
 Original repository : https://github.com/PiakCorp/PiakMultiTools
 
 You can contribute to this repository if you wish for
