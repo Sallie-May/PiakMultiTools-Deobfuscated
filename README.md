@@ -1,7 +1,11 @@
 ## PiakMultiTools-Deobfuscated
 
-## Why I did that?
-Simple, Github is a place where you show the source code, if you are not don't use github.
+## Quick fact
+
+It is just a modified version of Radu-Tool
+
+## Why did I do that?
+Simple, Github is a place where you're supposed to show the source code, if you are not don't use github.
 
 I still need to deobfuscate some pyarmor then everything to see for everyone !!
 
